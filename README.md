@@ -1,8 +1,8 @@
 # Aprenentatge Automàtic per Xarxes 
 
-Isaac Pérez
+Isaac Pérez (u214402)
 
-Christopher Matienzo
+Christopher Matienzo (u198726)
 
 Daniel Yearwood (u214976)
 
