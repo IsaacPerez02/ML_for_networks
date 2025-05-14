@@ -1,1 +1,3 @@
-# ML_for_networks
+# Aprenentatge Automàtic per Xarxes 
+
+Marc Rodríguez Rodríguez (u214013)
