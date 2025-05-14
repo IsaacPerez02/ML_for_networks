@@ -4,6 +4,6 @@ Isaac Pérez
 
 Christopher Matienzo
 
-Daniel Yearwood
+Daniel Yearwood (u214976)
 
 Marc Rodríguez (u214013)
