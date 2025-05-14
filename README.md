@@ -1,3 +1,6 @@
 # Aprenentatge Automàtic per Xarxes 
 
-Marc Rodríguez Rodríguez (u214013)
+Isaac Pérez
+Christopher Matienzo
+Daniel Yearwood
+Marc Rodríguez (u214013)
